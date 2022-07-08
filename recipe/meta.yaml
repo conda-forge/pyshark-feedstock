@@ -1,5 +1,5 @@
 {% set name = "pyshark" %}
-{% set version = "0.4.6" %}
+{% set version = "0.5" %}
 
 
 package:
@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/pyshark-{{ version }}.tar.gz
-  sha256: 8c38864ca26dd212980b8e054eb2238449e9b74af14dfe6c0e5a43b2d4336a52
+  sha256: dede17c8eabdc3b6dcb0dd0ffed6a8172f46cc06e0c09173d265e2588d940434
 
 build:
   number: 0
