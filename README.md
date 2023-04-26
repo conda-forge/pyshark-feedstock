@@ -1,11 +1,11 @@
-About pyshark
-=============
+About pyshark-feedstock
+=======================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/pyshark-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/KimiNewt/pyshark
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/pyshark-feedstock/blob/main/LICENSE.txt)
 
 Summary: Python wrapper for tshark, allowing python packet parsing using wireshark dissectors
 
