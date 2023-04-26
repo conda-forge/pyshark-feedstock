@@ -22,9 +22,9 @@ requirements:
   run:
     - appdirs
     - lxml
-    - py
     - packaging
     - python >=3.6
+    - termcolor
 
 test:
   imports:
